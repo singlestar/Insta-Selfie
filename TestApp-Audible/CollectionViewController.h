@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CollectionViewController.h
 //  TestApp-Audible
 //
 //  Created by Rajesh kumar Subbiah on 2/16/15.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface CollectionViewController : UICollectionViewController
 
 @end
